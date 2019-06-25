@@ -15,7 +15,7 @@
 | Kubernetes deployment Validation           | 1          | 3           | n/a            | Done (50%) | Done (50%)  | TBD      |
 | Transit VPC                                | 6          | 12          | n/a            | 1          | 1           | TBD      |
 | Disaster Recovery                          | 3          | 6           | n/a            | 1          | 1           | TBD      |
-| Prometheus (with use of Operators)         | 3          | 6           | n/a            | 1          | TODO (100)  | TBD      |
+| Prometheus (with use of Operators)         | 3          | 6           | n/a            | 1          | TODO (100%) | TBD      |
 | Incident Management integration            | 2          | 4           | n/a            | 1          | 1           | TBD      |
 | Sidecar containers (design)                | 2          | 6           | n/a            | 1          | 1           | TBD      |
 | Provisioning external resources            | 3          | 12          | n/a            | 1          | 1           | TBD      |
