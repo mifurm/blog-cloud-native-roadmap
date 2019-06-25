@@ -1,6 +1,6 @@
 # Cloud Native Infrastructure - Example Roadmap
 
-| Subject                                    | Optimistic | Pessimistic | Day 0          | Q2 2019    | Q3 2019     | Q4 2019  |
+| Subject                                    | Optimistic | Pessimistic | Q1 2019        | Q2 2019    | Q3 2019     | Q4 2019  |
 | ------------------------------------------ | ---------- | ----------- | -------------- | ---------- | ----------- | -------- |
 | Naming Conventions                         | 1          | 2           | 0%             | 20%        | TODO:50%    | TBD      |
 | Packaging apps into Docker                 | 3          | 6           | 100%           | 100%       | 100%        | TBD      |
