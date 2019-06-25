@@ -3,7 +3,7 @@
 | Subject | Optimistic | Pessimistic | Starting Point | PoC | Q2 2019 | Q3 2019 | Q4 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Naming Conventions                         | 1 | 2  | 1 | 1 | 1 | TBD |
-| Packaging apps into Docker                 | 3 | 6  | 1 | 1 | 1 | TBD | 
+| Packaging apps into Docker                 | 3 | 6  | Done | 1 | 1 | TBD | 
 | Docker Registry with HA                    | 2 | 6  | 1 | 1 | 1 | TBD |
 | RBAC (Security)                            | 3 | 6  | 1 | 1 | 1 | TBD |
 | Network Policies (Security)                | 3 | 6  | 1 | 1 | 1 | TBD |
@@ -23,7 +23,7 @@
 | Service Mesh (Istio)                       | 6 | 12 | 1 | 1 | 1 | TBD |
 | Observability & Tracing                    | 3 | 6  | 1 | 1 | 1 | TBD |
 | Custom Controllers and Operatos            | 6 | 12 | 1 | 1 | 1 | TBD |
-| Microservices contracts: health-checks     | 1 | 2  | 1 | 1 | 1 | TBD |
+| Microservices contracts: health-checks     | 1 | 2  | Done (50%) | 1 | 1 | TBD |
 | Microservices contracts: logging           | 2 | 4  | 1 | 1 | 1 | TBD |
 | Microservices contracts: metrics           | 2 | 4  | 1 | 1 | 1 | TBD |
 | Microservices contracts: deployment        | 3 | 6  | 1 | 1 | 1 | TBD |
