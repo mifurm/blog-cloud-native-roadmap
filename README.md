@@ -1,4 +1,5 @@
 # Cloud Native Infrastructure - Example Roadmap
+#  
 
 | Subject                                    | Optimistic | Pessimistic | Q1.2019        | Q2.2019    | Q3.2019     | Q4.2019  |
 | ------------------------------------------ | ---------- | ----------- | -------------- | ---------- | ----------- | -------- |
@@ -32,3 +33,11 @@
 | Microservices contracts: autoscaling       | 3          | 6           | 0%             | 0%         | 0%          | TBD      |
 
 
+| Resources               | Optimistic  | Pessimistic |
+| ----------------------- | ----------- | ----------- |
+| 1x fully dedicated FTE  | ~6.75 years	| ~14.5 years |
+| 2x fully dedicated FTEs | ~3,5 years  | ~8 years    |
+| 3x fully dedicated FTEs | ~2,5 years  | ~5years     |
+| 4x fully dedicated FTEs | ~2 years    | ~4  years   |
+| 6x fully dedicated FTEs | ~1,5 year	| ~3 years    |
+| 8x fully dedicated FTEs | ~1 year     | ~2 years    |
