@@ -1,4 +1,4 @@
-# Cloud Native Infrastructure (Enterprise scale) - Example Roadmap
+# Cloud Native Infrastructure - Example Roadmap
 
 | Subject | Optimistic | Pessimistic | Starting Point | PoC 1 | PoC 2 |
 | --- | --- | --- | --- | --- | --- |
