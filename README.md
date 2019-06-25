@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Naming Conventions                         | 1 | 1 | 1 | 1 | 1 | 3 |
 | Packaging apps into Docker                 | 1 | 1 | 1 | 1 | 1 | 2 | 
-| Docker Registry (HA + ECR integration      | 1 | 1 | 1 | 1 | 1 | 2 |
+| Docker Registry with HA                    | 1 | 1 | 1 | 1 | 1 | 2 |
 | RBAC (Security)                            | 1 | 1 | 1 | 1 | 1 | 2 |
 | Network Policies (Security)                | 1 | 1 | 1 | 1 | 1 | 2 |
 | Vault (Security)                           | 1 | 1 | 1 | 1 | 1 | 2 |
