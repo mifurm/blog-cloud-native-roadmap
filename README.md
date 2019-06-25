@@ -23,7 +23,7 @@
 | Service Mesh (Istio)                       | 6 | 12 | n/a | 1 | 1 | TBD |
 | Observability & Tracing                    | 3 | 6  | n/a | 1 | 1 | TBD |
 | Custom Controllers and Operatos            | 6 | 12 | n/a | 1 | 1 | TBD |
-| Microservices contracts: health-checks     | 1 | 2  | Done (50%) | 1 | 1 | TBD |
+| Microservices contracts: health            | 1 | 2  | Done (50%) | 1 | 1 | TBD |
 | Microservices contracts: logging           | 2 | 4  | n/a | 1 | 1 | TBD |
 | Microservices contracts: metrics           | 2 | 4  | n/a | 1 | 1 | TBD |
 | Microservices contracts: deployment        | 3 | 6  | n/a | 1 | 1 | TBD |
