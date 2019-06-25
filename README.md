@@ -1,7 +1,7 @@
 # Cloud Native Infrastructure - Example Roadmap
 
 | Subject                                    | Optimistic | Pessimistic | Day0 | PoC     | Q2 2019 | Q3 2019 | Q4 2019 |
-| ------------------------------------------ | ---------- | ----------- | -------------- | ------- | ------- | --------|
+| ------------------------------------------ | ---------- | ----------- | -------------- | ------- | ------- | -------- |
 | Naming Conventions                         | 1          | 2           | n/a            | 1       | 1       | TBD     |
 | Packaging apps into Docker                 | 3          | 6           | Done           | 1       | 1       | TBD     |
 | Docker Registry with HA                    | 2          | 6           | n/a            | 1       | 1       | TBD     |
